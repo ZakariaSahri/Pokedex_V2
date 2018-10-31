@@ -1,6 +1,6 @@
 # Pokedex
 
-an application able to retrieve a JSON file and a set of
+An application able to retrieve a JSON file and a set of
 images from the PokeApi backend in order to display (PokeApi link:
 http://pokeapi.co, images:
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/poke
