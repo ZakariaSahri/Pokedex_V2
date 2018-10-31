@@ -1,6 +1,11 @@
 # Pokedex
 
-An application that uses Retrofit to consume the Pokeapi API, in addition to loading images with Glide.
+an application able to retrieve a JSON file and a set of
+images from the PokeApi backend in order to display (PokeApi link:
+http://pokeapi.co, images:
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/poke
+mon/1.png):
+• A	list	of	pokemons	(pokemon	image	+	pokemon	name)
 
 
 ## Screenshots
