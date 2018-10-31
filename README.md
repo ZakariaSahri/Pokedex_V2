@@ -5,6 +5,7 @@ images from the PokeApi backend in order to display (PokeApi link:
 http://pokeapi.co, images:
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/poke
 mon/1.png):
+
 • A	list	of	pokemons	(pokemon	image	+	pokemon	name)
 
 
