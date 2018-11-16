@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:name=".connectioncheck.PokeDexApplication"
+        android:name="zakaria.avito.pokedex.PokeDexApplication"
         android:allowBackup="true"
         android:icon="@mipmap/pokedex_logo"
         android:label="@string/app_name"
@@ -14,14 +14,14 @@
         android:theme="@style/AppTheme">
 
         <receiver
-            android:name=".connectioncheck.ConnectionReceiver"
+            android:name="zakaria.avito.pokedex.utils.ConnectionReceiver"
             android:enabled="true">
             <intent-filter>
                 <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
             </intent-filter>
         </receiver>
 
-        <activity android:name="zakaria.avito.pokedex.PokeDexActivity"
+        <activity android:name="zakaria.avito.pokedex.pokemonlist.view.PokeDexActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

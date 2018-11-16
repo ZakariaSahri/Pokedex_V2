@@ -1,4 +1,4 @@
-package zakaria.avito.pokedex.connectioncheck;
+package zakaria.avito.pokedex.utils;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
