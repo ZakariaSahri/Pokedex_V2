@@ -1,4 +1,4 @@
-package zakaria.avito.pokedex.models;
+package zakaria.avito.pokedex.pokemonlist.models;
 
 import java.util.ArrayList;
 
